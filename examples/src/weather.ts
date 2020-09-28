@@ -1,3 +1,4 @@
+import { fabric } from "fabric";
 import { renderer, encoder } from "@pankod/canvas2video";
 import { Linear, Bounce } from "gsap";
 
